@@ -1,0 +1,3 @@
+$ cd jekyll_demo
+$ git init
+$ git checkout --orphan gh-pages
